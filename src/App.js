@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   constructor(){
 	this.state = {}
-        console.log("logging ",this.state)
+        //console.log("logging ",this.state)
   }
   render() {
     return (
